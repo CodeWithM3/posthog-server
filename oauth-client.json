@@ -1,0 +1,10 @@
+{
+  "client_id": "https://github.com/CodeWithM3/posthog-server",
+  "client_name": "OnDemand",
+  "logo_uri": "https://res.cloudinary.com/party-people/image/upload/v1795529435/posthog_bbksx2.webp",
+  "redirect_uris": ["https://dev.on-demand.io/connector/auth/callback"],
+  "token_endpoint_auth_method": "none",
+  "com.posthog": {
+    "scopes": ["project:read", "insight:read"]
+  }
+}
