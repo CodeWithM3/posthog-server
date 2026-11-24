@@ -1,7 +1,7 @@
 {
   "client_id": "https://posthog-server-jet.vercel.app/oauth-client.json",
   "client_name": "OnDemand",
-  "logo_uri": "https://res.cloudinary.com/party-people/image/upload/v1795529435/posthog_bbksx2.webp",
+  "logo_uri": "https://res.cloudinary.com/party-people/image/upload/v1795530894/on_demandio_logo_tbl8tj.jpg",
   "redirect_uris": ["https://dev.on-demand.io/connector/auth/callback"],
   "token_endpoint_auth_method": "none",
   "com.posthog": {
