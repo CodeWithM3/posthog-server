@@ -1,0 +1,10 @@
+{
+  "client_id": "",
+  "client_name": "OnDemand",
+  "logo_uri": "https://res.cloudinary.com/party-people/image/upload/v1795530894/on_demandio_logo_tbl8tj.jpg",
+  "redirect_uris": ["https://app.on-demand.io/connector/auth/callback"],
+  "token_endpoint_auth_method": "none",
+  "com.posthog": {
+    "scopes": ["project:read", "insight:read"]
+  }
+}
